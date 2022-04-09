@@ -15,7 +15,7 @@
     "better-scroll": "^1.9.0",
     "cropperjs": "^1.2.2",
     "fundebug-javascript": "^0.3.6",
-    "moment": "^2.21.0",
+    "moment": "^2.29.2",
     "vue": "^2.5.2",
     "vue-clipboard2": "0.0.8",
     "vue-lazyload": "^1.1.4",
